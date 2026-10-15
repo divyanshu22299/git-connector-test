@@ -1,0 +1,3 @@
+{
+  "products": "[{'sku': 'PROD-001', 'name': 'Souris sans fil', 'category': 'Électronique', 'price': 29.99, 'currency': 'USD', 'inStock': True, 'tags': ['sans fil', 'souris', 'périphérique']}, {'sku': 'PROD-002', 'name': 'Clavier mécanique', 'category': 'Électronique', 'price': 89.99, 'currency': 'USD', 'inStock': True, 'tags': ['clavier', 'mécanique', 'jeu']}, {'sku': 'PROD-003', 'name': 'Hub USB-C', 'category': 'Accessoires', 'price': 45.5, 'currency': 'USD', 'inStock': False, 'tags': ['usb-c', 'hub', 'adaptateur']}]"
+}

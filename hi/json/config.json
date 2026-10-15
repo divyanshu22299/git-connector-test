@@ -1,0 +1,21 @@
+{
+  "appName": "गिटकनेक्टरटेस्ट",
+  "version": "1.0.0",
+  "environment": "विकास",
+  "database": {
+    "host": "लोकलहोस्ट",
+    "port": "5432",
+    "name": "टेस्टडाटाबेस",
+    "ssl": "गलत"
+  },
+  "logging": {
+    "level": "डीबग",
+    "format": "जेसन",
+    "output": "स्टैंडर्डआउटपुट"
+  },
+  "features": {
+    "enableCache": "सही",
+    "maxRetries": "3",
+    "timeoutMs": "5000"
+  }
+}

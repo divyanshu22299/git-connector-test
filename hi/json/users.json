@@ -1,0 +1,3 @@
+{
+  "users": "[{'id': 1, 'name': 'एलिस जॉनसन', 'email': 'alice@example.com', 'age': 28, 'role': 'प्रशासक', 'active': True}, {'id': 2, 'name': 'बॉब स्मिथ', 'email': 'bob@example.com', 'age': 34, 'role': 'संपादक', 'active': True}, {'id': 3, 'name': 'चार्ली ब्राउन', 'email': 'charlie@example.com', 'age': 22, 'role': 'दर्शक', 'active': False}]"
+}
