@@ -1,12 +1,12 @@
 {
-  "appName": "TestDeConnexionGit",
+  "appName": "GitConnectorTest",
   "version": "1.0.0",
   "environment": "développement",
   "database": {
     "host": "localhost",
-    "port": "5432",
+    "port": 5432,
     "name": "bdetest",
-    "ssl": "Faux"
+    "ssl": false
   },
   "logging": {
     "level": "déboguer",
@@ -14,8 +14,8 @@
     "output": "stdout"
   },
   "features": {
-    "enableCache": "Vrai",
-    "maxRetries": "3",
-    "timeoutMs": "5000"
+    "enableCache": true,
+    "maxRetries": 3,
+    "timeoutMs": 5000
   }
 }

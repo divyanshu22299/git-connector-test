@@ -1,12 +1,12 @@
 {
-  "appName": "PruebaConectorGit",
+  "appName": "GitConnectorTest",
   "version": "1.0.0",
   "environment": "desarrollo",
   "database": {
     "host": "localhost",
-    "port": "5432",
+    "port": 5432,
     "name": "basedetest",
-    "ssl": "Falso"
+    "ssl": false
   },
   "logging": {
     "level": "depuración",
@@ -14,8 +14,8 @@
     "output": "stdout"
   },
   "features": {
-    "enableCache": "Verdadero",
-    "maxRetries": "3",
-    "timeoutMs": "5000"
+    "enableCache": true,
+    "maxRetries": 3,
+    "timeoutMs": 5000
   }
 }
